@@ -46,7 +46,7 @@ export default async function DashboardLayout({
           <SidebarLink
             href="/dashboard/applications"
             icon={<FileText size={22} />}
-            label="Board"
+            label="Kanban Board"
           />
           <SidebarLink
             href="/dashboard/ai-matcher"
