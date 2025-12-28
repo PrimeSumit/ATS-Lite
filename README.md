@@ -26,7 +26,7 @@ https://<your-app-name>.azurewebsites.net
 
 ### Authentication
 
-![Login](./screenshots/loginPage.png)
+![Login](./screenshots/LoginPage.png)
 
 ## ✨ Core Features
 
