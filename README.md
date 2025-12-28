@@ -14,19 +14,19 @@ https://<your-app-name>.azurewebsites.net
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Kanban Board
 
-![Kanban Board](./screenshots/kanbanboard.png)
+![Kanban Board](./screenshots/KanbanBoard.png)
 
 ### AI Resume Analyzer
 
-![AI Resume Analyzer](./screenshots/AI_analyzer.png)
+![AI Resume Analyzer](./screenshots/AI_Analyzer.png)
 
 ### Authentication
 
-![Login](./screenshots/loginpage.png)
+![Login](./screenshots/loginPage.png)
 
 ## ✨ Core Features
 
