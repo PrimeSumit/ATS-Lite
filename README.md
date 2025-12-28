@@ -16,6 +16,10 @@ https://<your-app-name>.azurewebsites.net
 
 ![Dashboard](./screenshots/Dashboard.png)
 
+### Charts
+
+![Charts](./screenshots/Charts.png)
+
 ### Kanban Board
 
 ![Kanban Board](./screenshots/KanbanBoard.png)
